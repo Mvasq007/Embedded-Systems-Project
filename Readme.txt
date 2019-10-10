@@ -1,6 +1,6 @@
 Course Project for Embedded Systems.
 Goal was to design a game that utilized several pieces of hardware.
-VIDEO: https://www.youtube.com/watch?v=hSiNBqdkpdQ&list=UUl3ICc92qTeUTPc88260LWw (I apologize for talking fast, the video had a strict time limit of 1 minute)
+VIDEO: https://www.youtube.com/watch?v=hSiNBqdkpdQ (I apologize for talking fast, the video had a strict time limit of 1 minute)
 
 
 
